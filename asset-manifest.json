@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pathshala/static/css/main.466bf2dd.css",
+    "main.js": "/pathshala/static/js/main.02755181.js",
+    "static/js/787.96f17c6b.chunk.js": "/pathshala/static/js/787.96f17c6b.chunk.js",
+    "index.html": "/pathshala/index.html",
+    "main.466bf2dd.css.map": "/pathshala/static/css/main.466bf2dd.css.map",
+    "main.02755181.js.map": "/pathshala/static/js/main.02755181.js.map",
+    "787.96f17c6b.chunk.js.map": "/pathshala/static/js/787.96f17c6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.466bf2dd.css",
+    "static/js/main.02755181.js"
+  ]
+}
